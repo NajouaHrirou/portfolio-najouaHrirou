@@ -4,9 +4,21 @@ import React from 'react';
 import HPLifeImage from '../assets/certifications/hp-life.jpg';
 import PythonCertImage from '../assets/certifications/python-365.jpg';
 import PowerBICertImage from '../assets/certifications/powerbi-365.jpg';
+import MernCertImage from '../assets/certifications/mern-simplilearn.jpg';
+import JupyterCertImage from '../assets/certifications/jupyter-365.jpg';
+import AIHPLifeImage from '../assets/certifications/ai-hp-life.jpg';
 
 export default function Certifications() {
   const certifications = [
+    {
+      title: "L'IA pour les débutants",
+      organization: "HP LIFE",
+      date: "Décembre 2025",
+      description: "Certification en intelligence artificielle couvrant les concepts fondamentaux de l'IA, ses applications pratiques, l'importance des données et les considérations éthiques.",
+      image: AIHPLifeImage,
+      badge: "🤖",
+      skills: ["Intelligence Artificielle", "Machine Learning", "Éthique de l'IA", "Applications de l'IA", "Fondamentaux de l'IA", "Technologie IA"]
+    },
     {
       title: "HP LIFE - Sciences et analyses des données",
       organization: "HP Foundation",
@@ -33,6 +45,23 @@ export default function Certifications() {
       image: PowerBICertImage,
       badge: "📊",
       skills: ["Power BI", "Data Visualization", "DAX", "Data Modeling", "Dashboards"]
+    },{
+      title: "Introduction to MERN Stack",
+      organization: "Simplilearn",
+      date: "Avril 2025",
+      description: "Certification en développement full-stack avec MongoDB, Express.js, React et Node.js, couvrant la création d'applications web modernes.",
+      image: MernCertImage,
+      badge: "⚛️",
+      skills: ["MongoDB", "Express.js", "React", "Node.js", "JavaScript", "Full-Stack Development", "API Development"]
+    },
+    {
+      title: "Introduction to Jupyter",
+      organization: "365 Data Science",
+      date: "Novembre 2024",
+      description: "Certification en utilisation de Jupyter Notebook pour l'analyse de données, la visualisation et le développement de projets data science.",
+      image: JupyterCertImage,
+      badge: "📓",
+      skills: ["Jupyter Notebook", "Data Analysis", "Python", "Data Visualization", "Interactive Computing", "Data Science Workflow"]
     }
   ];
 

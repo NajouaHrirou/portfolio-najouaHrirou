@@ -1,16 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.f81718ba.css",
-    "main.js": "/static/js/main.49e46d7a.js",
+    "main.js": "/static/js/main.adc05de6.js",
     "static/js/488.e269ea76.chunk.js": "/static/js/488.e269ea76.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/jupyter-365.jpg": "/static/media/jupyter-365.c7affa5e66453d945556.jpg",
+    "static/media/mern-simplilearn.jpg": "/static/media/mern-simplilearn.e2e263bdb69fc7f557d3.jpg",
+    "static/media/powerbi-365.jpg": "/static/media/powerbi-365.bf36380aa8ee87bde1e3.jpg",
+    "static/media/CV_Najoua_HRIROU&.pdf": "/static/media/CV_Najoua_HRIROU&.c60905db4979f1ca6550.pdf",
+    "static/media/hp-life.jpg": "/static/media/hp-life.b5f990474fc2beeec143.jpg",
+    "static/media/ai-hp-life.jpg": "/static/media/ai-hp-life.72d802bd23eea57e20e2.jpg",
+    "static/media/python-365.jpg": "/static/media/python-365.29f2911428126d688636.jpg",
+    "static/media/moiiiiiiiiii.jpg": "/static/media/moiiiiiiiiii.c32d0c5421ff70e80002.jpg",
     "index.html": "/index.html",
     "main.f81718ba.css.map": "/static/css/main.f81718ba.css.map",
-    "main.49e46d7a.js.map": "/static/js/main.49e46d7a.js.map",
+    "main.adc05de6.js.map": "/static/js/main.adc05de6.js.map",
     "488.e269ea76.chunk.js.map": "/static/js/488.e269ea76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f81718ba.css",
-    "static/js/main.49e46d7a.js"
+    "static/js/main.adc05de6.js"
   ]
 }
